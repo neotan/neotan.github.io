@@ -10,10 +10,7 @@ tags: ["homebrew", "npm", "composer"]
 categories: ["notes"]
 ---
 
-
-* TOC
-  {:toc}
-  引自我在知乎上的回答[Homebrew有比较快的源（mirror）吗？ - 知乎](https://www.zhihu.com/question/31360766/answer/132082951)
+引自我在知乎上的回答[Homebrew有比较快的源（mirror）吗？ - 知乎](https://www.zhihu.com/question/31360766/answer/132082951)
 
 ## 1. Homebrew
 
