@@ -3,6 +3,7 @@ layout: post
 title: Greasemoney script for renaming file names on webBaidu Netdisk 
 mermaid: true
 published: true
+date: 2020-03-23
 ---
 # Renaming tool for Baidu Netdisk (web-based) script 百度网盘的重命名小工具
 

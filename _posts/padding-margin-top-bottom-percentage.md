@@ -3,6 +3,7 @@ published: true
 layout: post
 tags: css, padding-top, padding-bottom, padding-top, padding-bottom
 title: Why padding/margin-top and padding/margin-bottom as a percentage related to the parent's width?
+date: 2015-06-04
 ---
 
 * 

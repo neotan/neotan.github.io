@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 用国内的源（Source）替换官方源，提高下载速度（包括Homebrew, npm 和 Composer 等）
+date: 2016-12-13
 ---
 * TOC
 {:toc}

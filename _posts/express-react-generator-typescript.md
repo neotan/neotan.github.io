@@ -3,6 +3,7 @@ layout: post
 title: express-react-generator-typescript 
 mermaid: true
 published: true
+date: 2020-03-29
 ---
 
 # express-react-generator-typescript

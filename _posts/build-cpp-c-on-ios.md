@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Compiling C/C++ project on jailbroken iOS devices (e.g. iPhone, iPad or iPod)
+date: 2016-01-17
 ---
 * TOC
 {:toc}

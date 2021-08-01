@@ -3,8 +3,7 @@ layout: wide
 title: Canada Universities
 
 cover-img: /EXT/images/featured-canada-study.jpg
-thumbnail-img: ../images/featured-canada-study.jpg
-share-img: ../images/featured-canada-study.jpg
+date: 2020-07-27
 ---
 
 <a href="https://datatables.net/manual" class="badge badge-light" title="jQuery Datatables APIs" target="_blank">Datatables APIs</a>

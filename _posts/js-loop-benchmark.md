@@ -2,6 +2,7 @@
 layout: post
 title: JavaScript/EcmaScript loop benchmark (incl. for/for-of/while/forEach/map)
 tags: JavaScript loop benchmark
+date: 2020-09-18
 ---
 
 ## Benchmark 

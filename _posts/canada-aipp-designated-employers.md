@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Canada Atlantic Immigration Pilot Program (AIPP)- Designated Employers (incl. NS, NB, NL, PEI)
+date: 2020-08-18
 ---
 
 <div style="margin: 0 5px;">

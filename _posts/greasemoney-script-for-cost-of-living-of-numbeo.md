@@ -3,6 +3,7 @@ layout: post
 title: Greasemoney script for cost of living data of numbeo.com comparison
 mermaid: true
 published: true
+date: 2020-01-15
 ---
 # Cost of living data comparison script
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 黑苹果硬件配置单
+date: 2015-06-16
 ---
 
 * TOC

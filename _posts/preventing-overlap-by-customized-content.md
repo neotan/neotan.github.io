@@ -3,6 +3,7 @@ published: true
 layout: post
 tags: CSS position relative overlap div
 title: How to prevent overlap by customized content(e.g. div and img)?
+date: 2015-06-04
 ---
 
 * 

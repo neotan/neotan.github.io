@@ -3,6 +3,7 @@ layout: post
 title: Simda.js, A light-weight alternative of Ramda.js
 mermaid: true
 published: true
+date: 2020-02-09
 ---
 # [Simda.js](https://www.npmjs.com/package/simda)
 

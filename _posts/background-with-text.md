@@ -3,6 +3,7 @@ published: true
 layout: post
 tags: CSS SVG background-image watermark
 title: Create background-image / Mask div with plain text dynamically
+date: 2015-06-04
 ---
 
 * 

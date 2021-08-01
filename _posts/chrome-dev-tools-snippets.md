@@ -3,6 +3,7 @@ published: true
 layout: post
 tags: Chrome DevTools Snippets
 title: Import/export Chrome Developer Tools' Snippets
+date: 2017-11-06
 ---
 
 * 

@@ -2,6 +2,7 @@
 layout: post
 title: flex-shrink calculation 
 published: true
+date: 2020-04-10
 ---
 
 `flex-shrink` is a tricky point in `flexbox` mechanism, let me show you how the browser calculate the final value.
