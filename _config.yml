@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://neotan.github.io"
+  Author's home: false
 
 github-repo-url: "https://neotan.github.io"
 

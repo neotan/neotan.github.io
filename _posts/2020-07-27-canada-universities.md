@@ -1,6 +1,10 @@
 ---
 layout: wide
 title: Canada Universities
+
+cover-img: /_posts/images/featured-canada-study.jpg
+thumbnail-img: ../images/featured-canada-study.jpg
+share-img: ../images/featured-canada-study.jpg
 ---
 
 <a href="https://datatables.net/manual" class="badge badge-light" title="jQuery Datatables APIs" target="_blank">Datatables APIs</a>

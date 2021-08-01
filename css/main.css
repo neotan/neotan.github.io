@@ -114,7 +114,7 @@ img {
 
 .blog-post img{
  	box-shadow: 5px 5px 25px #ccc;
-    margin: 20px auto; 
+    margin: 20px auto;
 }
 .disqus-comments {
     margin-top: 30px;
@@ -213,6 +213,7 @@ img {
     width: 100%;
     border-radius: 50%;
     display: block;
+    background-color: #f7f7f7;
 }
 
 .navbar-custom.top-nav-short .avatar-container {
@@ -818,28 +819,28 @@ kbd {
 }
 
 .color-red{
- 	color: #FF6666; 
+ 	color: #FF6666;
 }
 .bg-color-red{
- 	background-color: #FFCCCC; 
+ 	background-color: #FFCCCC;
   	padding: 2px 4px;
  	border-radius: 4px;
 }
 
 .color-blue{
- 	color: #0066CC; 
+ 	color: #0066CC;
 }
 .bg-color-blue{
- 	background-color: #33CCFF; 
+ 	background-color: #33CCFF;
   	padding: 2px 4px;
  	border-radius: 4px;
 }
 
 .color-green{
- 	color: #00CC66; 
+ 	color: #00CC66;
 }
 .bg-color-green{
- 	background-color: #99FF99; 
+ 	background-color: #99FF99;
   	padding: 2px 4px;
  	border-radius: 4px;
 }
@@ -852,7 +853,7 @@ kbd {
  	border: 1px solid #cccccc;
     text-align: center;
     margin: 0;
-    padding: 1px 1px; 
+    padding: 1px 1px;
   	font-size: 15px;
 }
 
@@ -861,7 +862,7 @@ kbd {
 }
 
 .nav-icon{
- 	font-size: 1.2em; 
+ 	font-size: 1.2em;
 }
 
 
