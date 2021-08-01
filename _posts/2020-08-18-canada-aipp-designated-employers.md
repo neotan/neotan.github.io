@@ -39,7 +39,7 @@ title: Canada Atlantic Immigration Pilot Program (AIPP)- Designated Employers (i
   <a href="https://getbootstrap.com/docs/3.3/components/" class="badge badge-light" title="Bootstrap APIs" target="_blank">Bootstrap APIs</a>
   
 <script type="module">
-  import {getAllData, getByKeys, flat, emptyRender} from '/js/helpers.mjs'
+  import {getAllData, getByKeys, flat, emptyRender} from '/EXT/js/helpers.mjs'
 
   function provinceRender(value = '', type, row, meta){
     var badge = row.location

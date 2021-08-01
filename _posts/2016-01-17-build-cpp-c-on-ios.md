@@ -8,7 +8,7 @@ Recently, I am trying to build a portable web server on my old iPhone4 (iOS v7.1
 
 # 0. Assumption
 I am assuming you have a jailbroked iDevice and have basis knowledge about Cydia, if not, pls follow this [TaiG jailbreak tutorial](http://www.taig.com/en/tutorial.html) and this pic
-[![Add Source](/_posts/images/cydia-add-source.png "Add Source")](/_posts/images/cydia-add-source.png)
+[![Add Source](/EXT/images/cydia-add-source.png "Add Source")](/EXT/images/cydia-add-source.png)
 
 
 # 1. Preparation

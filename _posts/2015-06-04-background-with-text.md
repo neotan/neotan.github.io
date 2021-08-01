@@ -120,7 +120,7 @@ watermark({
 
 ```
 
-![Run JS in Chrome's devtools](/_posts/images/watermark-run-js.png)
+![Run JS in Chrome's devtools](/EXT/images/watermark-run-js.png)
 
 Then process the screen shot in Photoshop CS, you will see the water mark is shown.
-![Watermark in JS](/_posts/images/watermark-js.png)
+![Watermark in JS](/EXT/images/watermark-js.png)

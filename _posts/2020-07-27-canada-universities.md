@@ -2,7 +2,7 @@
 layout: wide
 title: Canada Universities
 
-cover-img: /_posts/images/featured-canada-study.jpg
+cover-img: /EXT/images/featured-canada-study.jpg
 thumbnail-img: ../images/featured-canada-study.jpg
 share-img: ../images/featured-canada-study.jpg
 ---
@@ -21,7 +21,7 @@ share-img: ../images/featured-canada-study.jpg
   <table id="ca-universities-table" class="display" width="100%"></table>
   
 <script type="module">
-  import {getAllData, flat, emptyRender, urlRender} from '/js/helpers.mjs'
+  import {getAllData, flat, emptyRender, urlRender} from '/EXT/js/helpers.mjs'
 
   var urls = [
       "/data/canada-universities.json"
