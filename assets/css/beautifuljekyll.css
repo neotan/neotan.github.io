@@ -121,6 +121,10 @@ img {
 
 /* --- Navbar --- */
 
+.avata-img {
+  background-color: #f7f7f7;
+}
+
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
@@ -354,7 +358,6 @@ img {
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
     width: 100%;
-    background-color: #f7f7f7;
     {% unless site.round-avatar == false %}
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
