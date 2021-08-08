@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  /* font-family: 'Lora', 'Times New Roman', serif; */
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -1078,6 +1078,12 @@ pre {
 #search-results-container a:hover {
   color: #fff;
   text-decoration: underline;
+}
+
+#search-results-container > li {
+  background: #2d2d2d;
+  margin: 4px;
+  border-radius: 4px;
 }
 
 #nav-search-icon {
