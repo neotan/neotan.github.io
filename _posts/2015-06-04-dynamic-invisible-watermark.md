@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags: CSS SVG background-image watermark
-title: Create background-image / Mask div with plain text dynamically
+title: Dynamic invisible watermark
 date: 2015-06-04
 ---
 
@@ -10,7 +10,7 @@ date: 2015-06-04
 {:toc}
 
 ## Scenario
- While a user open you website, you want to make the background be filled with user's ID. 
+ Showcasing how to create watermark base on textual content, e.g. user's ID. 
 
 ## Solution A, use SVG
  The content of ordinary image format(e.g. png, jpg, gif) can only be painted in advance, cannot be updated dynamically. But we have SVG, it can help us out:
