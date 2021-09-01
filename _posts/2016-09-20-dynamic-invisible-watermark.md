@@ -3,7 +3,7 @@ published: true
 layout: post
 tags: CSS SVG background-image watermark
 title: Dynamic invisible watermark
-date: 2015-06-04
+date: 2016-09-20
 ---
 
 * 
