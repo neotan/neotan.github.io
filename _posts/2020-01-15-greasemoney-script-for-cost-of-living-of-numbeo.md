@@ -20,7 +20,7 @@ A GreaseMonkey script for visualizing multiple cities' data from www.numbeo.com/
 
 
 #### Chart
-[![Chart](https://github.com/neotan/neotan.github.io/blob/master/images/media/numbeo-cost-of-living-comparison-1.png?raw=true)](https://github.com/neotan/neotan.github.io/blob/master/images/media/numbeo-cost-of-living-comparison-1.png?raw=true)
+[![Chart](https://github.com/neotan/numbeo-cost-of-living-comparison/raw/master/numbeo1.png)](https://github.com/neotan/numbeo-cost-of-living-comparison/raw/master/numbeo1.png)
 
 #### Table
-[![Table](https://github.com/neotan/neotan.github.io/blob/master/images/media/numbeo-cost-of-living-comparison-2.png?raw=true)](https://github.com/neotan/neotan.github.io/blob/master/images/media/numbeo-cost-of-living-comparison-2.png?raw=true)
+[![Table](https://raw.githubusercontent.com/neotan/numbeo-cost-of-living-comparison/master/numbeo2.png)](https://raw.githubusercontent.com/neotan/numbeo-cost-of-living-comparison/master/numbeo2.png)
