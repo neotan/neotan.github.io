@@ -39,7 +39,8 @@ for (let i = 0; i < arr.length; i++) {
 ### `for` - Cached length
 
 ```js
-for (let i = 0; i < arr.length; i++) {
+let len = arr.length;
+for (let i = 0; i < len; i++) {
     dosmth = arr[i];
 }
 ```
