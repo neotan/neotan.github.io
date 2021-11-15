@@ -10,3 +10,30 @@ published: true
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+```js
+var url = "https://jsonplaceholder.typicode.com/todos/1";
+
+function promiseExec(promise, iterator) {
+  if (promise?.then) {
+    promise.then((x) => {
+      const { value: anotherPromise } = iterator.next(x);
+      promiseExec(anotherPromise, iterator);
+    });
+  }
+}
+
+function co(generator) {
+  var iterator = generator();
+  var { value: promise } = iterator.next();
+  promiseExec(promise, iterator);
+}
+
+co(function* () {
+  const res = yield fetch(url);
+  const json = yield res.json();
+  console.log({ json });
+  document.querySelector("#app").innerHTML = JSON.stringify(json, null, 2);
+});
+
+```
